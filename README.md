@@ -13,3 +13,7 @@ npm start-initial
 ```sh
 npm run start
 ```
+
+### Print-screen
+
+![Print Screen](https://raw.githubusercontent.com/ruanfelssner/challenge-mercado-bitcoin/main/screenshot.jpg)
