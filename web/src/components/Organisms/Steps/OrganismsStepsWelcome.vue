@@ -33,5 +33,8 @@ const { personType } = useSteps();
     label{
         margin-left:.5rem;
     }
+    input{
+        accent-color: #000;
+    }
 }
 </style>

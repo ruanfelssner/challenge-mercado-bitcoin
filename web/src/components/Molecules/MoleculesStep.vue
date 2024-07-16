@@ -37,7 +37,7 @@ $primary: #ff9900;
         margin-bottom:1.25rem;
     }
     .container{
-        width:270px;
+        max-width:270px;
     }
     .footer{
         display: flex;
