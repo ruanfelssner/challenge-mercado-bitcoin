@@ -2,17 +2,12 @@
   
   "name": "desafio-mb-web",
   "version": "1.0.0",
-  "main": "app.js",
-  "devDependencies": {},
   "scripts": {
     "start-initial": "cd web && npm install && npm run build && cd ../server && npm install && npm run start",
     "start": "cd web && npm run build && cd ../server && npm run start",
     "dev": "cd web && npm run dev",
     "dev-server": "cd server && npm run dev"
   },
-  "dependencies": {
-    "express": "^4.19.2"
-  },
-  "author": "",
+  "author": "Ruan Felssner",
   "license": "ISC"
 }
